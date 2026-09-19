@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/varun-777/leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/varun-777/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
