@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/varun-777/leetcode/tree/master/0052-n-queens-ii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String
 |  |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/varun-777/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
