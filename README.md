@@ -32,6 +32,7 @@
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Math
 |  |
 | ------- |
@@ -47,10 +48,12 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+## Stack
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
