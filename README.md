@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/varun-777/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/varun-777/leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/varun-777/leetcode/tree/master/0052-n-queens-ii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String
@@ -95,6 +97,7 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/varun-777/leetcode/tree/master/0052-n-queens-ii) |
 ## Binary Search
 |  |
