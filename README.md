@@ -14,6 +14,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/varun-777/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/varun-777/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/varun-777/leetcode/tree/master/0015-3sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/varun-777/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varun-777/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/varun-777/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/varun-777/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Math
 |  |
 | ------- |
