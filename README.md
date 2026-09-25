@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
+| [0605-can-place-flowers](https://github.com/varun-777/leetcode/tree/master/0605-can-place-flowers) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/varun-777/leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/varun-777/leetcode/tree/master/0605-can-place-flowers) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
