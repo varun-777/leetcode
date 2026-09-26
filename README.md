@@ -12,6 +12,7 @@
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0605-can-place-flowers](https://github.com/varun-777/leetcode/tree/master/0605-can-place-flowers) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0860-lemonade-change](https://github.com/varun-777/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -47,6 +48,7 @@
 | [0605-can-place-flowers](https://github.com/varun-777/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/varun-777/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0860-lemonade-change](https://github.com/varun-777/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varun-777/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
