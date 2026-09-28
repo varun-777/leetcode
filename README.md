@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varun-777/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/varun-777/leetcode/tree/master/0052-n-queens-ii) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varun-777/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0409-longest-palindrome](https://github.com/varun-777/leetcode/tree/master/0409-longest-palindrome) |
@@ -94,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/varun-777/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
@@ -103,6 +106,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
