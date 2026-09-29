@@ -82,6 +82,7 @@
 | [0052-n-queens-ii](https://github.com/varun-777/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/varun-777/leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String
 |  |
@@ -89,6 +90,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varun-777/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0409-longest-palindrome](https://github.com/varun-777/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/varun-777/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/varun-777/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
