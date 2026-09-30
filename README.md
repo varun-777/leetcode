@@ -69,6 +69,7 @@
 | [0050-powx-n](https://github.com/varun-777/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -116,11 +117,13 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0746-min-cost-climbing-stairs](https://github.com/varun-777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
