@@ -65,6 +65,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/varun-777/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -109,6 +110,7 @@
 | [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/varun-777/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -158,4 +160,16 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/varun-777/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
