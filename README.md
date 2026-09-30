@@ -15,6 +15,7 @@
 | [0119-pascals-triangle-ii](https://github.com/varun-777/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/varun-777/leetcode/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/varun-777/leetcode/tree/master/0605-can-place-flowers) |
+| [0746-min-cost-climbing-stairs](https://github.com/varun-777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/varun-777/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
@@ -110,6 +111,7 @@
 | [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/varun-777/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0746-min-cost-climbing-stairs](https://github.com/varun-777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
