@@ -103,6 +103,7 @@
 | [0680-valid-palindrome-ii](https://github.com/varun-777/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/varun-777/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varun-777/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -118,6 +119,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/varun-777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/varun-777/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/varun-777/leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
