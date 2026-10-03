@@ -102,6 +102,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varun-777/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/varun-777/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/varun-777/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varun-777/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Algorithm X
