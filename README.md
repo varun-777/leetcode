@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/varun-777/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/varun-777/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/varun-777/leetcode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/varun-777/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varun-777/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varun-777/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 | [0409-longest-palindrome](https://github.com/varun-777/leetcode/tree/master/0409-longest-palindrome) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -85,6 +87,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varun-777/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/varun-777/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
@@ -144,6 +147,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Stack
@@ -155,6 +159,7 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/varun-777/leetcode/tree/master/0052-n-queens-ii) |
 ## Binary Search
@@ -193,4 +198,8 @@
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/varun-777/leetcode/tree/master/1668-maximum-repeating-substring) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
