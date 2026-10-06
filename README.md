@@ -214,4 +214,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/varun-777/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
