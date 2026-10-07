@@ -16,6 +16,7 @@
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/varun-777/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varun-777/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/varun-777/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/varun-777/leetcode/tree/master/0198-house-robber) |
 | [0605-can-place-flowers](https://github.com/varun-777/leetcode/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/varun-777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -126,6 +127,7 @@
 | [0055-jump-game](https://github.com/varun-777/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/varun-777/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varun-777/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/varun-777/leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/varun-777/leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
