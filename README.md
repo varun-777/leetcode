@@ -114,6 +114,7 @@
 | [0678-valid-parenthesis-string](https://github.com/varun-777/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/varun-777/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/varun-777/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/varun-777/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varun-777/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -150,6 +151,7 @@
 | [0032-longest-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/varun-777/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/varun-777/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
@@ -168,6 +170,7 @@
 | [0020-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/varun-777/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/varun-777/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varun-777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Algorithm X
