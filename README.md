@@ -25,6 +25,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/varun-777/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
+| [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -81,6 +82,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -143,6 +145,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/varun-777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [1668-maximum-repeating-substring](https://github.com/varun-777/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
@@ -198,6 +201,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Depth-First Search
 |  |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 ## Impartial Game
 |  |
 | ------- |
@@ -232,4 +237,12 @@
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/varun-777/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0784-letter-case-permutation](https://github.com/varun-777/leetcode/tree/master/0784-letter-case-permutation) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
