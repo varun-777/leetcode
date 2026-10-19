@@ -28,6 +28,7 @@
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varun-777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/varun-777/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varun-777/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/varun-777/leetcode/tree/master/0015-3sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varun-777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/varun-777/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Greedy
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varun-777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
