@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/varun-777/leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -249,4 +250,16 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/varun-777/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/varun-777/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/varun-777/leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
