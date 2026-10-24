@@ -86,6 +86,7 @@
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
+| [2409-count-days-spent-together](https://github.com/varun-777/leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
@@ -130,6 +131,7 @@
 | [1668-maximum-repeating-substring](https://github.com/varun-777/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varun-777/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2409-count-days-spent-together](https://github.com/varun-777/leetcode/tree/master/2409-count-days-spent-together) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
