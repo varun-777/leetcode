@@ -35,6 +35,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/varun-777/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3838-weighted-word-mapping](https://github.com/varun-777/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2409-count-days-spent-together](https://github.com/varun-777/leetcode/tree/master/2409-count-days-spent-together) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3838-weighted-word-mapping](https://github.com/varun-777/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,4 +266,8 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/varun-777/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/varun-777/leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
