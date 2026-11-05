@@ -27,6 +27,7 @@
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-777/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -54,10 +55,12 @@
 | [0027-remove-element](https://github.com/varun-777/leetcode/tree/master/0027-remove-element) |
 | [0680-valid-palindrome-ii](https://github.com/varun-777/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-777/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/varun-777/leetcode/tree/master/0015-3sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-777/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/varun-777/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -200,6 +203,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-777/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
