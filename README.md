@@ -26,6 +26,7 @@
 | [0860-lemonade-change](https://github.com/varun-777/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-777/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -188,6 +189,7 @@
 | [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Stack
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | ------- |
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/varun-777/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Linked List
 |  |
 | ------- |
@@ -277,4 +280,16 @@
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/varun-777/leetcode/tree/master/3838-weighted-word-mapping) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
