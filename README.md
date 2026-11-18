@@ -142,6 +142,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2409-count-days-spent-together](https://github.com/varun-777/leetcode/tree/master/2409-count-days-spent-together) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/varun-777/leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/varun-777/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3838-weighted-word-mapping](https://github.com/varun-777/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
