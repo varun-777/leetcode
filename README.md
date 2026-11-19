@@ -25,6 +25,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/varun-777/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/varun-777/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/varun-777/leetcode/tree/master/0015-3sum) |
+| [0976-largest-perimeter-triangle](https://github.com/varun-777/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-777/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-777/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/varun-777/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -80,6 +82,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/varun-777/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/varun-777/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/varun-777/leetcode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/varun-777/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varun-777/leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/varun-777/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -93,6 +96,7 @@
 | [0050-powx-n](https://github.com/varun-777/leetcode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/varun-777/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0976-largest-perimeter-triangle](https://github.com/varun-777/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
@@ -301,4 +305,12 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/varun-777/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/varun-777/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
