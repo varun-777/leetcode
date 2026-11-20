@@ -97,6 +97,7 @@
 | [0050-powx-n](https://github.com/varun-777/leetcode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/varun-777/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/varun-777/leetcode/tree/master/0258-add-digits) |
 | [0812-largest-triangle-area](https://github.com/varun-777/leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/varun-777/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/varun-777/leetcode/tree/master/1025-divisor-game) |
@@ -293,6 +294,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/varun-777/leetcode/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/varun-777/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/varun-777/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Breadth-First Search
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/varun-777/leetcode/tree/master/0812-largest-triangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/varun-777/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
