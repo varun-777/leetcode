@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/varun-777/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/varun-777/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/varun-777/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/varun-777/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/varun-777/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/varun-777/leetcode/tree/master/0055-jump-game) |
@@ -76,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/varun-777/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/varun-777/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/varun-777/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/varun-777/leetcode/tree/master/0605-can-place-flowers) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/varun-777/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/varun-777/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/varun-777/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/varun-777/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/varun-777/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/varun-777/leetcode/tree/master/0119-pascals-triangle-ii) |
