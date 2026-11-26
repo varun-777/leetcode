@@ -105,6 +105,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/varun-777/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/varun-777/leetcode/tree/master/1140-stone-game-ii) |
 | [2409-count-days-spent-together](https://github.com/varun-777/leetcode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/varun-777/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/varun-777/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-777/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
@@ -301,6 +302,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/varun-777/leetcode/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/varun-777/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/varun-777/leetcode/tree/master/3360-stone-removal-game) |
 | [3838-weighted-word-mapping](https://github.com/varun-777/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Breadth-First Search
 |  |
