@@ -51,6 +51,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/varun-777/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/varun-777/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varun-777/leetcode/tree/master/0037-sudoku-solver) |
+| [0383-ransom-note](https://github.com/varun-777/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/varun-777/leetcode/tree/master/0409-longest-palindrome) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/varun-777/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varun-777/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -144,6 +145,7 @@
 | [0079-word-search](https://github.com/varun-777/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/varun-777/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/varun-777/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0383-ransom-note](https://github.com/varun-777/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/varun-777/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/varun-777/leetcode/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/varun-777/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -321,6 +323,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/varun-777/leetcode/tree/master/0383-ransom-note) |
 | [1267-count-servers-that-communicate](https://github.com/varun-777/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Quicksort
 |  |
